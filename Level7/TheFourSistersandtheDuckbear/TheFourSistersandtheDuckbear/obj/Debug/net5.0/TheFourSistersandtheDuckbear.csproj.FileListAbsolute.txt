@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\bin\Debug\net5.0\TheFourSistersandtheDuckbear.exe
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\bin\Debug\net5.0\TheFourSistersandtheDuckbear.deps.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\bin\Debug\net5.0\TheFourSistersandtheDuckbear.runtimeconfig.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\bin\Debug\net5.0\TheFourSistersandtheDuckbear.runtimeconfig.dev.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\bin\Debug\net5.0\TheFourSistersandtheDuckbear.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\bin\Debug\net5.0\ref\TheFourSistersandtheDuckbear.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\bin\Debug\net5.0\TheFourSistersandtheDuckbear.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\TheFourSistersandtheDuckbear.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\TheFourSistersandtheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\TheFourSistersandtheDuckbear.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\TheFourSistersandtheDuckbear.AssemblyInfo.cs
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\TheFourSistersandtheDuckbear.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\TheFourSistersandtheDuckbear.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\ref\TheFourSistersandtheDuckbear.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\TheFourSistersandtheDuckbear.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheFourSistersandtheDuckbear\obj\Debug\net5.0\TheFourSistersandtheDuckbear.genruntimeconfig.cache

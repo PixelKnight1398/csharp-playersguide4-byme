@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\bin\Debug\net5.0\The Defense of Consolas.exe
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\bin\Debug\net5.0\The Defense of Consolas.deps.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\bin\Debug\net5.0\The Defense of Consolas.runtimeconfig.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\bin\Debug\net5.0\The Defense of Consolas.runtimeconfig.dev.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\bin\Debug\net5.0\The Defense of Consolas.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\bin\Debug\net5.0\ref\The Defense of Consolas.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\bin\Debug\net5.0\The Defense of Consolas.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\The Defense of Consolas.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\The Defense of Consolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\The Defense of Consolas.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\The Defense of Consolas.AssemblyInfo.cs
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\The Defense of Consolas.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\The Defense of Consolas.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\ref\The Defense of Consolas.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\The Defense of Consolas.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level8\TheDefenseOfConsolas\The Defense of Consolas\obj\Debug\net5.0\The Defense of Consolas.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.exe
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.deps.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.runtimeconfig.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.runtimeconfig.dev.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\bin\Debug\net5.0\ref\The Dominion of Kings.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.AssemblyInfo.cs
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\ref\The Dominion of Kings.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level7\TheFourSistersandtheDuckbear\TheDominionOfKings\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.genruntimeconfig.cache
