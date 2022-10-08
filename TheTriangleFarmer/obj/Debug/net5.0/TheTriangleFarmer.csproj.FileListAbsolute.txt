@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.exe
+D:\Documents\VSProjects\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.deps.json
+D:\Documents\VSProjects\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.runtimeconfig.json
+D:\Documents\VSProjects\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.runtimeconfig.dev.json
+D:\Documents\VSProjects\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.dll
+D:\Documents\VSProjects\TheTriangleFarmer\bin\Debug\net5.0\ref\TheTriangleFarmer.dll
+D:\Documents\VSProjects\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.pdb
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.AssemblyInfo.cs
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.dll
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\ref\TheTriangleFarmer.dll
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.pdb
+D:\Documents\VSProjects\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.genruntimeconfig.cache
