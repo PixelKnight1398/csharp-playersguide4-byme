@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\bin\Debug\net5.0\Watchtower.exe
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\bin\Debug\net5.0\Watchtower.deps.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\bin\Debug\net5.0\Watchtower.runtimeconfig.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\bin\Debug\net5.0\Watchtower.runtimeconfig.dev.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\bin\Debug\net5.0\Watchtower.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\bin\Debug\net5.0\ref\Watchtower.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\bin\Debug\net5.0\Watchtower.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\Watchtower.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\Watchtower.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\Watchtower.AssemblyInfo.cs
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\Watchtower.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\Watchtower.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\ref\Watchtower.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\Watchtower.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\Watchtower\Watchtower\obj\Debug\net5.0\Watchtower.genruntimeconfig.cache

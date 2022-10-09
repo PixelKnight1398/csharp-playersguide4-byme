@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.exe
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.deps.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.runtimeconfig.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.runtimeconfig.dev.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\bin\Debug\net5.0\ref\Repairing the Clocktower.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.AssemblyInfo.cs
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\ref\Repairing the Clocktower.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level9\RepairingTheClocktower\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.genruntimeconfig.cache

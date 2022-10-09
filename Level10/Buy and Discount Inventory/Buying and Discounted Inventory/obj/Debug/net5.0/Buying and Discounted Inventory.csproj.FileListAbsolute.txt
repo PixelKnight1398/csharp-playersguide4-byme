@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\bin\Debug\net5.0\Buying and Discounted Inventory.exe
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\bin\Debug\net5.0\Buying and Discounted Inventory.deps.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\bin\Debug\net5.0\Buying and Discounted Inventory.runtimeconfig.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\bin\Debug\net5.0\Buying and Discounted Inventory.runtimeconfig.dev.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\bin\Debug\net5.0\Buying and Discounted Inventory.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\bin\Debug\net5.0\ref\Buying and Discounted Inventory.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\bin\Debug\net5.0\Buying and Discounted Inventory.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\Buying and Discounted Inventory.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\Buying and Discounted Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\Buying and Discounted Inventory.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\Buying and Discounted Inventory.AssemblyInfo.cs
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\Buying and Discounted Inventory.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\Buying and Discounted Inventory.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\ref\Buying and Discounted Inventory.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\Buying and Discounted Inventory.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level10\Buy and Discount Inventory\Buying and Discounted Inventory\obj\Debug\net5.0\Buying and Discounted Inventory.genruntimeconfig.cache

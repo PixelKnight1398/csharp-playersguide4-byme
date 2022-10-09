@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.exe
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.deps.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.runtimeconfig.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.runtimeconfig.dev.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\bin\Debug\net5.0\ref\The Magic Cannon.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.AssemblyInfo.cs
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\ref\The Magic Cannon.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\TheMagicCannon\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.genruntimeconfig.cache

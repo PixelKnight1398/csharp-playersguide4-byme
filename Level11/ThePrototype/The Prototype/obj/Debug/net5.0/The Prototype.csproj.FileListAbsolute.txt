@@ -1,0 +1,16 @@
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\The Prototype.csproj.AssemblyReference.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\The Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\The Prototype.AssemblyInfoInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\The Prototype.AssemblyInfo.cs
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\The Prototype.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\bin\Debug\net5.0\The Prototype.exe
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\bin\Debug\net5.0\The Prototype.deps.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\bin\Debug\net5.0\The Prototype.runtimeconfig.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\bin\Debug\net5.0\The Prototype.runtimeconfig.dev.json
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\bin\Debug\net5.0\The Prototype.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\bin\Debug\net5.0\ref\The Prototype.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\bin\Debug\net5.0\The Prototype.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\The Prototype.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\ref\The Prototype.dll
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\The Prototype.pdb
+D:\Documents\VSProjects\C# Players Guide 4th Edition\csharp-playersguide-byme\Level11\ThePrototype\The Prototype\obj\Debug\net5.0\The Prototype.genruntimeconfig.cache

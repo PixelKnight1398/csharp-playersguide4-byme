@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Buying and Discounted Inventory/1.0.0": {
+        "runtime": {
+          "Buying and Discounted Inventory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buying and Discounted Inventory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
