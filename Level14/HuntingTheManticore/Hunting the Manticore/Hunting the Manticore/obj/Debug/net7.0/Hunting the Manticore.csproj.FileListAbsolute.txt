@@ -1,0 +1,15 @@
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\Hunting the Manticore.csproj.AssemblyReference.cache
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\Hunting the Manticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\Hunting the Manticore.AssemblyInfoInputs.cache
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\Hunting the Manticore.AssemblyInfo.cs
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\Hunting the Manticore.csproj.CoreCompileInputs.cache
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\bin\Debug\net7.0\Hunting the Manticore.exe
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\bin\Debug\net7.0\Hunting the Manticore.deps.json
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\bin\Debug\net7.0\Hunting the Manticore.runtimeconfig.json
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\bin\Debug\net7.0\Hunting the Manticore.dll
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\bin\Debug\net7.0\Hunting the Manticore.pdb
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\Hunting the Manticore.dll
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\refint\Hunting the Manticore.dll
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\Hunting the Manticore.pdb
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\Hunting the Manticore.genruntimeconfig.cache
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level14\HuntingTheManticore\Hunting the Manticore\Hunting the Manticore\obj\Debug\net7.0\ref\Hunting the Manticore.dll
