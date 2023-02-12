@@ -1,0 +1,5 @@
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level24\TicTacToe\Tic-Tac-Toe\Tic-Tac-Toe\publish\Tic-Tac-Toe.exe
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level24\TicTacToe\Tic-Tac-Toe\Tic-Tac-Toe\publish\Tic-Tac-Toe.dll
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level24\TicTacToe\Tic-Tac-Toe\Tic-Tac-Toe\publish\Tic-Tac-Toe.deps.json
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level24\TicTacToe\Tic-Tac-Toe\Tic-Tac-Toe\publish\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level24\TicTacToe\Tic-Tac-Toe\Tic-Tac-Toe\publish\Tic-Tac-Toe.pdb
