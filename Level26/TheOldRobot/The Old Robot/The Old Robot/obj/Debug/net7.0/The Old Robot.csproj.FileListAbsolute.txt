@@ -1,0 +1,15 @@
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\bin\Debug\net7.0\The Old Robot.exe
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\bin\Debug\net7.0\The Old Robot.deps.json
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\bin\Debug\net7.0\The Old Robot.runtimeconfig.json
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\bin\Debug\net7.0\The Old Robot.dll
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\bin\Debug\net7.0\The Old Robot.pdb
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\The Old Robot.csproj.AssemblyReference.cache
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\The Old Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\The Old Robot.AssemblyInfoInputs.cache
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\The Old Robot.AssemblyInfo.cs
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\The Old Robot.csproj.CoreCompileInputs.cache
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\The Old Robot.dll
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\refint\The Old Robot.dll
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\The Old Robot.pdb
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\The Old Robot.genruntimeconfig.cache
+C:\Users\Dorian\Documents\GitHub\csharp-playersguide4-byme\Level26\TheOldRobot\The Old Robot\The Old Robot\obj\Debug\net7.0\ref\The Old Robot.dll
